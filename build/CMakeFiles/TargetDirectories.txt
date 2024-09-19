@@ -1,0 +1,3 @@
+/Users/99/Code/cpp/CG/Movimiento de objetos 2D basado en vectores/build/CMakeFiles/MyGLFWProject.dir
+/Users/99/Code/cpp/CG/Movimiento de objetos 2D basado en vectores/build/CMakeFiles/edit_cache.dir
+/Users/99/Code/cpp/CG/Movimiento de objetos 2D basado en vectores/build/CMakeFiles/rebuild_cache.dir
